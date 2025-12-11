@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|d:\\gitrepository\\repository-pattern\\repositorypatternnongeneric-1\\repositorypattern-minimalapi-logging-dto-nongeneric\\repositorypatternminimalapidto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|d:\\gitrepository\\repository-pattern\\repositorypatternnongeneric-1\\repositorypattern-minimalapi-logging-dto-nongeneric\\repositorypatternminimalapidto\\dtos\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|solutionrelative:dtos\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|d:\\gitrepository\\repository-pattern\\repositorypatternnongeneric-1\\repositorypattern-minimalapi-logging-dto-nongeneric\\repositorypatternminimalapidto\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|d:\\gitrepository\\repository-pattern\\repositorypatternnongeneric-1\\repositorypattern-minimalapi-logging-dto-nongeneric\\repositorypatternminimalapidto\\validation\\productupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|solutionrelative:validation\\productupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|d:\\gitrepository\\repository-pattern\\repositorypatternnongeneric-1\\repositorypattern-minimalapi-logging-dto-nongeneric\\repositorypatternminimalapidto\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|d:\\gitrepository\\repository-pattern\\repositorypatternnongeneric-1\\repositorypattern-minimalapi-logging-dto-nongeneric\\repositorypatternminimalapidto\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|solutionrelative:middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|d:\\gitrepository\\repository-pattern\\repositorypatternnongeneric-1\\repositorypattern-minimalapi-logging-dto-nongeneric\\repositorypatternminimalapidto\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|solutionrelative:dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|d:\\gitrepository\\repository-pattern\\repositorypatternnongeneric-1\\repositorypattern-minimalapi-logging-dto-nongeneric\\repositorypatternminimalapidto\\validation\\productcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|solutionrelative:validation\\productcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|d:\\gitrepository\\repository-pattern\\repositorypatternnongeneric-1\\repositorypattern-minimalapi-logging-dto-nongeneric\\repositorypatternminimalapidto\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|d:\\gitrepository\\repository-pattern\\repositorypatternnongeneric-1\\repositorypattern-minimalapi-logging-dto-nongeneric\\repositorypatternminimalapidto\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|d:\\gitrepository\\repository-pattern\\repositorypatternnongeneric-1\\repositorypattern-minimalapi-logging-dto-nongeneric\\repositorypatternminimalapidto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6286026-56F5-4B79-9C14-65618A3F7681}|RepositoryPatternMinimalAPIDTO.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:13:45.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductUpdateValidator.cs",
+              "DocumentMoniker": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Validation\\ProductUpdateValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\ProductUpdateValidator.cs",
+              "ToolTip": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Validation\\ProductUpdateValidator.cs",
+              "RelativeToolTip": "Validation\\ProductUpdateValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:12:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductCreateValidator.cs",
+              "DocumentMoniker": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Validation\\ProductCreateValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\ProductCreateValidator.cs",
+              "ToolTip": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Validation\\ProductCreateValidator.cs",
+              "RelativeToolTip": "Validation\\ProductCreateValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:11:40.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAlwHgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:03:59.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAEwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:07:23.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductReadDto.cs",
+              "DocumentMoniker": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Dtos\\ProductReadDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ProductReadDto.cs",
+              "ToolTip": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Dtos\\ProductReadDto.cs",
+              "RelativeToolTip": "Dtos\\ProductReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:05:36.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:14:20.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:07:02.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Dtos\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ProductCreateDto.cs",
+              "ToolTip": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Dtos\\ProductCreateDto.cs",
+              "RelativeToolTip": "Dtos\\ProductCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:05:05.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:04:27.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\GitRepository\\Repository-Pattern\\RepositoryPatternNonGeneric-1\\RepositoryPattern-MinimalApi-Logging-DTO-NonGeneric\\RepositoryPatternMinimalAPIDTO\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T09:04:02.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
